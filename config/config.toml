@@ -1,0 +1,18 @@
+[viewer]
+    Title = "博客"
+    Description = "博客"
+    Logo = "/resource/images/logo.png"
+    Navigation = ["首页","/", "GO语言","/category/Go", "归档","/pigeonhole", "关于","/about"]
+    Bilibili = ""
+    Zhihu = ""
+    Avatar = "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_bt%2F0%2F13147603927%2F1000.jpg&refer=http%3A%2F%2Finews.gtimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1647242040&t=c6108010ed46b4acebe18955acdd2d24"
+    UserName = "METHUN"
+    UserDesc = "METHUN DESC"
+[system]
+    CdnURL = "http://raserbuzn.hb-bkt.clouddn.com"
+    QiniuAccessKey = "tpvg-CSIHvTWe-A94TUBcP6free12-fCw2lZfl9z"
+    QiniuSecretKey = "Pfk44DCZO6i3dRrGG6lx9ltkE471Pyg782mVOhf0"
+    Valine = true
+    ValineAppid = "BsWt4Rnrob85hu5LkI2hg7KF-gzGzoHsz"
+    ValineAppkey = "2m7OYjxf0up7nKFVxVgYwPf1"
+    ValineServerURL = "https://bswt4rnr.lc-cn-n1-shared.com"
